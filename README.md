@@ -18,7 +18,7 @@ So_Long is a project assigned by 42 Network, where the goal is to create a simpl
 ## Installation
 Clone the repository to your local machine using the following command:
 ```bash
-git clone https://github.com/belkdioui-111/so_long.git
+git clone git@github.com:belkdioui-111/so_long.git
 ```
 ## Usage
 Navigate to the project directory and run the following command to compile the game:
