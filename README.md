@@ -1,4 +1,4 @@
-# So_Long - 42 Network Project
+# So_Long - 1337 Project
 
 ## Table of Contents
 - [Description](#description)
